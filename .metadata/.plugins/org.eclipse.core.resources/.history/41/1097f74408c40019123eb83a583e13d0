@@ -1,0 +1,15 @@
+package com.company.test;
+
+import org.openqa.selenium.*;
+import org.openqa.selenium.chrome.*;
+
+public class MyFirstTest {
+
+	public static void main(String[] args) {
+		
+		WebDriver Driver=new ChromeDriver();
+		
+
+	}
+
+}
